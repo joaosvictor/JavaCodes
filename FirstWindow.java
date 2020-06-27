@@ -84,3 +84,4 @@ public class FirtsWindow extends JFrame {
 		contentPane.add(lblimg);
 	}
 }
+/////
