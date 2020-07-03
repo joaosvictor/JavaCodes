@@ -9,7 +9,7 @@ class Solution{
             int b = scan.nextInt();
             int n = scan.nextInt();
             for (int j = 0; j < n; j++) {
-                a += b * (int) Math.pow(2, j);
+                a += b * (int) Math.pow(2, j);//'Math.pow' calculate the less number.
                 System.out.print(a + " ");
             }
             System.out.println();
