@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/* Saves a ton of necessary info, excellently organized, into this class */
+// Saves a ton of necessary info, excellently organized, into this class 
 public class Data {
 	int numEntries        = 0;
 	int numSpamEntries    = 0;
