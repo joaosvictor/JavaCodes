@@ -33,7 +33,7 @@ public class Solution {
 
 		return new Result(maxBreakNum, minBreakNum);
 	}
-}
+}//
 
 class Result {
 	int maxBreakNum;
